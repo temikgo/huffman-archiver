@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/hse/.proga/hse-Artem-Smirnyagin-temikgo/archiver/istreamwrapper.cpp
+istreamwrapper.h
+D:/hse/.proga/hse-Artem-Smirnyagin-temikgo/archiver/istreamwrapper.h
+
+D:/hse/.proga/hse-Artem-Smirnyagin-temikgo/archiver/istreamwrapper.h
+cstdint
+-
+iostream
+-
+memory
+-
+vector
+-
+node.h
+D:/hse/.proga/hse-Artem-Smirnyagin-temikgo/archiver/node.h
+
+D:/hse/.proga/hse-Artem-Smirnyagin-temikgo/archiver/node.h
+cstdint
+-
+memory
+-
+vector
+-
+
